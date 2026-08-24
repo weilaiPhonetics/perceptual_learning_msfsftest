@@ -1,0 +1,85 @@
+<html style="font-family:&quot;Arial&quot;,sans-serif"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><header><h1><p style="text-align:center">Questionnaire</p></h1></header>
+
+  
+    
+    <p><b>Please give us these last pieces of information before we save your answers.</b></p>
+    
+    <ol>
+      <li>
+        <p>What is your age?</p>
+        <input name="Age" type="radio" value="16 or younger" id="16 or younger" class="obligatory"> <label for="16 or younger">16 or younger</label>
+        <input name="Age" type="radio" value="17-20" id="17-20" class="obligatory"> <label for="17-20">17-20 years of age</label> <!--changed this to create default US entry -->
+        <input name="Age" type="radio" value="21-25" id="21-25" class="obligatory"> <label for="21-25">21-25 years of age</label>
+        <input name="Age" type="radio" value="21-25" id="26-30" class="obligatory"> <label for="26-30">26-30 years of age</label>
+        <input name="Age" type="radio" value="31+" id="31+" class="obligatory"> <label for="31+">31 or older</label>
+      </li>
+      <li>    
+        <p>What is your gender?</p>
+        <input name="gender" type="radio" value="male" id="mgender" class="obligatory"><label for="mgender">Man</label>
+        <input name="gender" type="radio" value="female" id="fgender"><label for="fgender">Woman</label>
+        <input name="gender" type="radio" value="other" id="ogender"><label for="ogender">Non binary</label>
+        <input name="gender" type="radio" value="other" id="otgender"><label for="otgender">Other</label>
+        <input name="gender" type="radio" value="other" id="ogender"><label for="pgender">Prefer not to specify</label>
+      </li>
+      <li>    
+        <p>Which race/ethnicity do you most identify with?</p>
+        <input name="race" type="radio" value="Asian" id="asian" class="obligatory"><label for="asian">Asian</label>
+        <input name="race" type="radio" value="Black/African" id="black"><label for="black">Black/African</label>
+        <input name="race" type="radio" value="Caucasian/White" id="white"><label for="white">Caucasian/White</label>
+        <input name="race" type="radio" value="Hispanic/Latinx" id="hispanic"><label for="hispanic">Hispanic/Latinx</label>
+        <input name="race" type="radio" value="Native American" id="native"><label for="native">Native American</label>
+        <input name="race" type="radio" value="Pacific Island" id="pacific"><label for="pacific">Pacific Island</label>
+        <input name="race" type="radio" value="Mixed Race" id="mixed"><label for="mixed">Mixed Race</label>
+        <input name="race" type="radio" value="Other" id="other"><label for="other">Other</label>
+        <input name="race" type="radio" value="Other" id="pother"><label for="pother">Prefer not to specify</label>
+      </li>
+      <li>
+        <p>Which country did you spend most of your early childhood in?</p>
+        <input name="Childhood country" type="radio" value="us" id="us" class="obligatory"> <label for="us">United States</label> <!--changed this to create default US entry -->
+        <input name="Childhood country" type="radio" value="canada" id="canada" class="obligatory"> <label for="canada">Canada</label>
+        <input name="Childhood country" type="radio" value="elsewhere" id="elsewhere" class="obligatory"> <label for="elsewhere">Elsewhere</label> <!--changed this to create default US entry -->
+      </li>
+      <li>
+        <p>If your answer to the previous question was "Elsewhere", please state the country below:</p>
+        <input name="Childhood country elsewhere" type="text" value="" id="country2"> <!-- class="obligatory"/>-->
+      </li>
+      <li>
+        <p>Would you describe where you are from as part of the American South?</p>
+        <input name="south" type="radio" value="yes" id="yes"><label for="yes">Yes</label>
+        <input name="south" type="radio" value="no" id="no"><label for="no">No</label>
+      </li>
+
+      <li>
+        <p>Do you speak any languages <i>other than English</i> like a native speaker?<br>
+          <i>By speaking ‘like a native speaker’, we mean that when you speak the language, others usually think you grew up speaking that language.</i></p>
+        <input name="Other native languages" type="radio" value="yes" id="multilingual" class="obligatory"><label for="multilingual">Yes</label>
+        <input name="Other native languages" type="radio" value="no" id="monolingual"><label for="monolingual">No</label>
+      </li>
+      <li>
+        <p>Are you right-handed, left-handed, or ambidextrous?</p>
+        <input name="Handedness" type="radio" value="right" id="rhand" class="obligatory"><label for="rhand">Right</label>
+        <input name="Handedness" type="radio" value="left" id="lhand"><label for="lhand">Left</label>
+        <input name="Handedness" type="radio" value="both" id="bhand"><label for="bhand">Ambidextrous</label>
+      </li>
+      <li>    
+        <p>Were you distracted during this experiment?</p>
+        <input name="Distractedness" type="radio" value="yes" id="ydistracted" class="obligatory"><label for="ydistracted">Yes </label>
+        <input name="Distractedness" type="radio" value="no" id="ndistracted"><label for="ndistracted"> No</label>
+      </li>
+      <li>    
+        <p>Do you think this experiment is hard?</p>
+        <input name="difficulty" type="radio" value="yes" id="yhard" class="obligatory"><label for="yhard">Yes </label>
+        <input name="difficulty" type="radio" value="no" id="nhard"><label for="nhard"> No</label>
+      </li>
+      <li>
+        <p>What do you think the experiment was about?</p>
+        <textarea name="Experiment about" id="expabout" cols="40" rows="5"></textarea>
+      </li>
+      <li>
+        <p>Any other comments on the experiment:</p>
+        <textarea name="Comments" id="comments" cols="40" rows="5"></textarea>
+      </li>
+    </ol>
+  
+
+</body></html>

@@ -1,0 +1,52 @@
+item,soundfile,condition,correct,foil
+1,Ashley_ambition_1.0.wav,clear SH,ambition,inhibition 
+2,Ashley_negotiate_1.0.wav,clear SH,negotiate,negation 
+3,Ashley_vacation_1.0.wav,clear SH,vacation,vocation 
+4,Ashley_refreshing_1.0.wav,clear SH,refreshing,infringing 
+5,Ashley_publisher_1.0.wav,clear SH,publisher,publicly 
+6,Ashley_beneficial_1.0.wav,clear SH,beneficial,artificial 
+7,Ashley_crucial_1.0.wav,clear SH,crucial,cruel 
+8,Ashley_efficient_1.0.wav,clear SH,efficient,effective 
+9,Ashley_parachute_1.0.wav,clear SH,parachute,paragon 
+10,Ashley_initial_1.0.wav,clear SH,initial,essential 
+11,Ashley_official_1.0.wav,clear SH,official,optimal 
+12,Ashley_impatient_1.0.wav,clear SH,impatient,impacted 
+13,Ashley_graduation_1.0.wav,clear SH,graduation,substitution 
+14,Ashley_evaluation_1.0.wav,clear SH,evaluation,valuation 
+15,Ashley_commercial_1.0.wav,clear SH,commercial,financial 
+16,Ashley_brochure_1.0.wav,clear SH,brochure,butcher 
+17,Ashley_glacier_1.0.wav,clear SH,glacier,grayshott 
+18,Ashley_reconcile_0.4.wav,ambiguous S,reconcile,gracile 
+19,Ashley_democracy_0.5.wav,ambiguous S,democracy,autocracy 
+20,Ashley_dinosaur_0.6.wav,ambiguous S,dinosaur,dining-set 
+21,Ashley_embassy_0.55.wav,ambiguous S,embassy,embarrassing 
+22,Ashley_eraser_0.6.wav,ambiguous S,eraser,harasser 
+23,Ashley_falsetto_0.6.wav,ambiguous S,falsetto,falsehood 
+24,Ashley_faucet_0.6.wav,ambiguous S,faucet,flawless 
+25,Ashley_rehearsal_0.65.wav,ambiguous S,rehearsal,reversal 
+26,Ashley_medicine_0.4.wav,ambiguous S,medicine,medical 
+27,Ashley_parasite_0.4.wav,ambiguous S,parasite,parasol 
+28,Ashley_pregnancy_0.6.wav,ambiguous S,pregnancy,presidency 
+29,Ashley_obscene_0.5.wav,ambiguous S,obscene,obscuring 
+30,Ashley_hallucinate_0.6.wav,ambiguous S, hallucinate, deracinate 
+31,Ashley_legacy_0.5.wav,ambiguous S,legacy,legally 
+32,Ashley_peninsula_0.6.wav,ambiguous S,peninsula,pennsylvania 
+33,Ashley_episode_0.45.wav,ambiguous S,episode,webisode 
+34,Ashley_compensate_0.5.wav,ambiguous S,compensate,extravasate 
+35,Ashley_iguana_1.0.wav,filler,iguana,guana 
+36,Ashley_moreover_1.0.wav,filler,moreover,forever 
+37,Ashley_Nepor_1.0.wav,filler,Nepal,Napoleon 
+38,Ashley_racoon_1.0.wav,filler,racoon,balloon 
+39,Ashley_raven_1.0.wav,filler,raven,ravel 
+40,Ashley_ribbon_1.0.wav,filler,ribbon,region 
+41,Ashley_row_1.0.wav,filler,row,low 
+42,Ashley_runaway_1.0.wav,filler,runaway,takeaway 
+43,Ashley_thumbnail_1.0.wav,filler,thumbnail,toenail 
+44,Ashley_touch_1.0.wav,filler,touch,Dutch 
+45,Ashley_verify_1.0.wav,filler,verify,varified 
+46,Ashley_volleyball_1.0.wav,filler,volleyball,valleygirl 
+47,Ashley_vugar_1.0.wav,filler,vulgar,Vodka 
+48,Ashley_waffle_1.0.wav,filler,waffle,castile 
+49,Ashley_wharf_1.0.wav,filler,wharf,wolf 
+50,Ashley_time_1.0.wav,filler,time,dime 
+51,Ashley_tie_1.0.wav,filler,tie,die 
